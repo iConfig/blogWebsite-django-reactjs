@@ -3,8 +3,10 @@ Blog App with Django Rest Framework and Reactjs
 
 
 
-<p>Blogs Page </p>
-![Screenshot 2022-11-14 at 22-20-58 React App](https://user-images.githubusercontent.com/109239573/205483184-02403e06-32fb-4f16-bb10-5f707d4873d0.png)
+<p>Blogs Page</p>
+
+![Screenshot 2022-11-14 at 22-20-58 React App](https://user-images.githubusercontent.com/109239573/205483234-6bc9ad5b-7cd9-4477-a336-8b12cf79e092.png)
+
 
 
 <p>Blog Details page</p>
